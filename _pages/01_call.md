@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /cfp/
-title: Appel à communication
+title: Inscription
+redirect: https://framaforms.org/registation-to-popils-day-1697722058
 ---
 
-TBD
+
