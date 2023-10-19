@@ -8,7 +8,7 @@ date: 16 Février 2024
 ---
 
 
-La première édition de POPILS a été lancée dans le but de réunir les étudiants et les chercheurs de Lyon et Saint-Étienne intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
+Cette première édition de POPILS a pour objectif de réunir les étudiants et les chercheurs de Lyon et Saint-Étienne intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
 
 <br>
 Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/registation-to-popils-day-1697722058">formulaire</a>. L'inscription est à la fois gratuite et obligatoire.<br>
