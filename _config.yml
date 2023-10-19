@@ -1,11 +1,11 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "OPPALYSE"
-name_year: "OPPALYSE 2024"
+name: "POPILS"
+name_year: "POPILS 2024"
 email:
 description: > # this means to ignore newlines until "url:"
-  Journée Lyon Saint-Etienne sur l'optimisation, les problèmes inverses et la parcimonie
+  Journée Lyon Saint-Etienne sur la parcimonie, l'optimisation et les problèmes inverse
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -17,7 +17,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: oppalyse
+github_username: popils-day
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -33,8 +33,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Oppalyse
-blog_description: Journée Optimisation Problèmes Inverses Parcimonie Lyon Saint-Etienne
+blog_name: POPILS
+blog_description: Journée Parcimonie Optimisation et Problèmes Inverses Lyon Saint-Etienne
 
 # Pagination
 paginate: 4

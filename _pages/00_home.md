@@ -1,14 +1,14 @@
 ---
 layout: home
 permalink: /
-title: OPPALYSE2024
-desc_title: OPPALYSE
-description: Journée <b>O</b>ptimisation, <b>P</b>roblèmes inverses et <b>Pa</b>rcimonie <b>Ly</b>on <b>S</b>aint-<b>E</b>tienne
+title: POPILS2024
+desc_title: POPILS
+description: Journée <b>P</b>arcimonie, <b>O</b>ptimisation et <b>P</b>roblèmes <b>I</b>nverses  <b>L</b>yon <b>S</b>aint-Etienne
 date: 16 Février 2024
 ---
 
 
-La première édition d'OPPALYSE a été lancée dans le but de réunir les étudiants et les chercheurs locaux intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération. Lyon et Saint-Étienne, en tant que pôles de recherche dynamiques, accueillent cet événement qui propose des présentations et des discussions pour favoriser les synergies et contribuer à l'avancement de la recherche. Nous attendons avec enthousiasme la participation de tous pour faire de cette journée une réussite mémorable.
+La première édition d'POPILS a été lancée dans le but de réunir les étudiants et les chercheurs de Lyon et Saint-Étienne intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
 
 
 
