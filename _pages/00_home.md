@@ -8,7 +8,7 @@ date: 16 Février 2024
 ---
 
 
-La première édition d'POPILS a été lancée dans le but de réunir les étudiants et les chercheurs de Lyon et Saint-Étienne intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
+La première édition de POPILS a été lancée dans le but de réunir les étudiants et les chercheurs de Lyon et Saint-Étienne intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
 
 
 
