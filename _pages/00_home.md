@@ -56,12 +56,12 @@ Bibliothèque Marie Curie<br>INSA Lyon
 <h3>Equipe organisatrice</h3>
 
 <ul>
-  <li><a href="#">Jérémy Cohen</a>, CNRS, Creatis</li>
-  <li><a href="#">Jordan Frecon</a>, LabHC</li>
-  <li><a href="#">Maxime Guillaud</a>, Inria Citi</li>
-  <li><a href="#">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
-  <li><a href="#">Laurent Seppecher</a>, ICJ</li>
-  <li><a href="#">Juliàn Tachella</a>, CNRS, ENS Lyon</li>
+  <li><a href="https://jeremy-e-cohen.jimdofree.com/">Jérémy Cohen</a>, CNRS, CREATIS</li>
+  <li><a href="https://jordan-frecon.com/">Jordan Frecon</a>, LabHC</li>
+  <li><a href="https://maximeguillaud.github.io/">Maxime Guillaud</a>, Inria, CITI</li>
+  <li><a href="http://perso.ens-lyon.fr/nelly.pustelnik/">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
+  <li><a href="http://math.univ-lyon1.fr/~seppecher/">Laurent Seppecher</a>, ICJ</li>
+  <li><a href="https://tachella.github.io/">Juliàn Tachella</a>, CNRS, ENS Lyon</li>
 </ul>
 
 
