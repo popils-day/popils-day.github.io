@@ -16,3 +16,13 @@ Jeudi 16 Février 2024
 | 14h20-15h10 | **Nicolas Ducros** - TBD      |
 | 15h10-16h00 | **Elisa Ricietti** - IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration       |
 
+
+<div class="speaker-container">
+    <div class="speaker-title">Speaker Name</div>
+    <div class="speaker-abstract">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac ante mollis velit bibendum rhoncus.
+        Integer quis quam at justo rutrum varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+        posuere cubilia Curae; Proin nec arcu vel est interdum tristique.
+    </div>
+</div>
+

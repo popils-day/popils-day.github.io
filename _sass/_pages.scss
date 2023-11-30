@@ -12,3 +12,24 @@
 .center{
     text-align: center;
 }
+
+/* Styles for the title of the speaker */
+.speaker-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333; /* You can customize the color */
+    margin-bottom: 0.5em;
+}
+
+/* Styles for the abstract of the speaker */
+.speaker-abstract {
+    font-size: 1em;
+    color: #666; /* You can customize the color */
+    margin-bottom: 1em;
+}
+
+/* Container for each speaker */
+.speaker-container {
+    margin-bottom: 2em; /* Adjust the spacing between speakers */
+}
+
