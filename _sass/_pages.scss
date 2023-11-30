@@ -13,11 +13,19 @@
     text-align: center;
 }
 
-/* Styles for the title of the speaker */
-.speaker-title {
-    font-size: 1.5em; /* Reduced size for the speaker name */
+/* Styles for the title of the presentation */
+.presentation-title {
+    font-size: 1.3em;
     font-weight: bold;
     color: #3498db; /* Blue color, you can customize this */
+    margin-bottom: 0.3em;
+}
+
+/* Styles for the name of the speaker */
+.speaker-name {
+    font-size: 1.5em; /* Adjusted size for the name */
+    font-weight: bold;
+    color: #333; /* Dark color, you can customize this */
     margin-bottom: 0.3em;
 }
 
@@ -26,7 +34,6 @@
     font-size: 1.2em;
     color: #555; /* Dark gray color, you can customize this */
     margin-bottom: 1em;
-    background-color: #f2f2f2; /* Slightly grayed-out background */
     padding: 10px;
     border-radius: 8px;
 }
@@ -45,4 +52,5 @@
     transform: scale(1.02);
     transition: transform 0.3s ease-in-out;
 }
+
 

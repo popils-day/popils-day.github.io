@@ -18,7 +18,8 @@ Jeudi 16 Février 2024
 
 
 <div class="speaker-container">
-    <div class="speaker-title">Speaker Name</div>
+    <div class="presentation-title">Title of the Presentation</div>
+    <div class="speaker-name">Speaker Name</div>
     <div class="speaker-abstract">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac ante mollis velit bibendum rhoncus.
         Integer quis quam at justo rutrum varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
