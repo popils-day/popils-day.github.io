@@ -15,21 +15,31 @@
 
 /* Styles for the title of the speaker */
 .speaker-title {
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: bold;
-    color: #333; /* You can customize the color */
-    margin-bottom: 0.5em;
+    color: #3498db; /* Blue color, you can customize this */
+    margin-bottom: 0.3em;
 }
 
 /* Styles for the abstract of the speaker */
 .speaker-abstract {
-    font-size: 1em;
-    color: #666; /* You can customize the color */
+    font-size: 1.2em;
+    color: #555; /* Dark gray color, you can customize this */
     margin-bottom: 1em;
 }
 
 /* Container for each speaker */
 .speaker-container {
-    margin-bottom: 2em; /* Adjust the spacing between speakers */
+    border: 2px solid #ddd; /* Light gray border */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft box shadow */
+}
+
+/* Hover effect for each speaker */
+.speaker-container:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease-in-out;
 }
 
