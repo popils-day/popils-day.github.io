@@ -14,7 +14,7 @@
 }
 
 /* Styles for the title of the presentation */
-.presentation-title {
+.speaker-title {
     font-size: 1.3em;
     font-weight: bold;
     color: #3498db; /* Blue color, you can customize this */
@@ -31,7 +31,7 @@
 
 /* Styles for the abstract of the speaker */
 .speaker-abstract {
-    font-size: 1.2em;
+    font-size: "smaller";
     color: #555; /* Dark gray color, you can customize this */
     margin-bottom: 1em;
     padding: 10px;

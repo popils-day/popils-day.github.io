@@ -19,7 +19,7 @@ Jeudi 16 Février 2024
 
 <div class="speaker-container">
     <div class="speaker-name">Elisa Ricietti</div>
-    <div class="presentation-title">IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration</div>
+    <div class="speaker-title">IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration</div>
     
     <div class="speaker-abstract">
 	In this talk I'll introduce a multilevel framework for inertial and inexact proximal algorithms, referred as IML FISTA, which includes multilevel adaptations of classical algorithms like forward-backward (FB) and FISTA.
