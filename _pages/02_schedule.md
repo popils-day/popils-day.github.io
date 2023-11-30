@@ -18,12 +18,17 @@ Jeudi 16 Février 2024
 
 
 <div class="speaker-container">
-    <div class="presentation-title">Title of the Presentation</div>
-    <div class="speaker-name">Speaker Name</div>
+    <div class="speaker-name">Elisa Ricietti</div>
+    <div class="presentation-title">IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration</div>
+    
     <div class="speaker-abstract">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac ante mollis velit bibendum rhoncus.
-        Integer quis quam at justo rutrum varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-        posuere cubilia Curae; Proin nec arcu vel est interdum tristique.
-    </div>
+	In this talk I'll introduce a multilevel framework for inertial and inexact proximal algorithms, referred as IML FISTA, which includes multilevel adaptations of classical algorithms like forward-backward (FB) and FISTA.
+
+	The proposed IML FISTA is supported by strong theoretical guarantees: we establish both the convergence rate and the convergence of the iterates, a critical outcome for addressing ill-posed problems. We propose a particular instance of IML FISTA, based on the use of the Moreau envelope to build efficient and useful coarse corrections, fully adapted to solve image restoration problems.
+
+	We evaluate our approach on several image reconstruction problems including hyperspectral image restoration. We show that it considerably accelerates the convergence of the corresponding one-level (i.e. FB or FISTA) version of the methods.
+
+	In the context of hyperspectral image restoration, two methods for approximating the objective function dedicated to this problem are proposed. In both cases, the associated convergence guarantees are equivalent to state-of-the-art approaches. These two methods are compared to FISTA, demonstrating the relevance of the proposed approach for very large volumes of data.
+	    </div>
 </div>
 
