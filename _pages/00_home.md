@@ -15,7 +15,7 @@ Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/registat
 Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters.
 
 
-### Orateurs (attente de confirmation)
+### Orateurs
 
 <table style="width:75%">
   <tr>
