@@ -15,7 +15,7 @@
 
 /* Styles for the title of the speaker */
 .speaker-title {
-    font-size: 2em;
+    font-size: 1.5em; /* Reduced size for the speaker name */
     font-weight: bold;
     color: #3498db; /* Blue color, you can customize this */
     margin-bottom: 0.3em;
@@ -26,6 +26,9 @@
     font-size: 1.2em;
     color: #555; /* Dark gray color, you can customize this */
     margin-bottom: 1em;
+    background-color: #f2f2f2; /* Slightly grayed-out background */
+    padding: 10px;
+    border-radius: 8px;
 }
 
 /* Container for each speaker */
