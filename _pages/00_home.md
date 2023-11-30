@@ -25,7 +25,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://perso.ens-lyon.fr/elisa.riccietti/">Elisa Ricietti</a> <br> Associate Professor<br>OCKHAM Inria<br>ENS Lyon</td>
+    <td style="text-align:center"><a href="https://perso.ens-lyon.fr/elisa.riccietti/">Elisa Riccietti</a> <br> Associate Professor<br>OCKHAM Inria<br>ENS Lyon</td>
     <td style="text-align:center"><a href="https://perso.univ-st-etienne.fr/deniloic/">Loic Denis</a> <br>Full Professor<br>Lab. Hubert Curien<br>Télécom Saint-Etienne</td>
     <td style="text-align:center"><a href="https://www.creatis.insa-lyon.fr/~ducros/WebPage/index.html">Nicolas Ducros</a> <br> Associate Professor<br>CREATIS<br>INSA Lyon</td>
     <td style="text-align:center"><a href="https://ydecastro.github.io/">Yohann De Castro</a> <br>Full Professor<br>Institut Camille Jordan<br>Centrale Lyon</td>
