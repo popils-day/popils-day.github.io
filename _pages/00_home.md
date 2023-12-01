@@ -20,7 +20,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speakers/loic_denis.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
   </tr>
