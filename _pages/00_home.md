@@ -60,5 +60,7 @@ Bibliothèque Marie Curie<br>INSA Lyon
   <li><a href="http://math.univ-lyon1.fr/~seppecher/">Laurent Seppecher</a>, ICJ</li>
   <li><a href="https://tachella.github.io/">Juliàn Tachella</a>, CNRS, ENS Lyon</li>
 </ul>
+<br>
 
+**Sponsors** : Nous remercions la FIL et le projet ANR LoRAiA 20-CE23-0010 qui soutiennent la journée POPILS
 
