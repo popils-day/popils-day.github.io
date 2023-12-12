@@ -11,7 +11,7 @@ Jeudi 16 Février 2024
 | 9h55-10h    | **Mot d'ouverture**      |
 | 10h-10h50   | **Yohann De Castro** - TBD     |
 | 10h50-11h30 | **Pause café + posters** |
-| 11h30-12h20 | **Loic Denis**  - TBD          |
+| 11h30-12h20 | **Loïc Denis**  - Parcimonie, optimisation et problèmes inverses en observation de la Terre et de l'Univers          |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Nicolas Ducros** - TBD      |
 | 15h10-16h00 | **Elisa Riccietti** - IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration       |
@@ -30,6 +30,18 @@ Jeudi 16 Février 2024
 	We evaluate our approach on several image reconstruction problems including hyperspectral image restoration. We show that it considerably accelerates the convergence of the corresponding one-level (i.e. FB or FISTA) version of the methods.
 
 	In the context of hyperspectral image restoration, two methods for approximating the objective function dedicated to this problem are proposed. In both cases, the associated convergence guarantees are equivalent to state-of-the-art approaches. These two methods are compared to FISTA, demonstrating the relevance of the proposed approach for very large volumes of data.
+	    </div>
+</div>
+
+
+<div class="speaker-container">
+    <div class="speaker-name">Loïc Denis</div>
+    <div class="speaker-title">Parcimonie, optimisation et problèmes inverses en observation de la Terre et de l'Univers</div>
+    
+    <div class="speaker-abstract">
+La résolution de problèmes inverses avec des a priori de parcimonie conduit à des problèmes d'optimisation nécessitant des méthodologies adaptées.
+
+Au travers d'exemples en observation de la Terre et de l'Univers, plusieurs approches seront présentées: les modèles de décomposition (composante étendue + composante ponctuelle), l'estimation aveugle de paramètres instrumentaux (restauration d'un flou variable dans le champ), la détection de sources ponctuelles (exoplanètes) ou de changements (apparition/disparition de forts rétro-diffuseurs en imagerie radar à synthèse d'ouverture).
 	    </div>
 </div>
 
