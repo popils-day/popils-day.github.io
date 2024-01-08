@@ -13,7 +13,7 @@ Jeudi 16 Février 2024
 | 10h50-11h30 | **Pause café + posters** |
 | 11h30-12h20 | **Loïc Denis**  - Parcimonie, optimisation et problèmes inverses en observation de la Terre et de l'Univers          |
 | 12h20-14h20 | **Buffet + posters**     |
-| 14h20-15h10 | **Nicolas Ducros** - TBD      |
+| 14h20-15h10 | **Nicolas Ducros** - Computational hyperspectral SPIM for quantitative multicolor imaging      |
 | 15h10-16h00 | **Elisa Riccietti** - IML FISTA: A Multilevel Framework for Inexact and Inertial Forward-Backward. Application to large scale Image Restoration       |
 
 
