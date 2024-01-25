@@ -38,7 +38,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 <div class="one-third" style="magin-top:5%">
 
-Jeudi 16 Février 2024<br><br>
+Vendredi 16 Février 2024<br><br>
 
 Bibliothèque Marie Curie<br>INSA Lyon
 </div><div class="two-third">

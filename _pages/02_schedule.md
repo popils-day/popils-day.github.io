@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Programme
 ---
-Jeudi 16 Février 2024
+Vendredi 16 Février 2024
 
 | Horaire      | Orateur              |
 |------------- |----------------------|
