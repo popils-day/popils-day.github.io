@@ -9,7 +9,7 @@ Vendredi 16 Février 2024
 |------------- |----------------------|
 | 9h30-9h55   | **Acceuil**              |
 | 9h55-10h    | **Mot d'ouverture**      |
-| 10h-10h50   | **Yohann De Castro** - TBD     |
+| 10h-10h50   | **Yohann De Castro** - Convex regularization on measures for GMMs     |
 | 10h50-11h30 | **Pause café + posters** |
 | 11h30-12h20 | **Loïc Denis**  - Parcimonie, optimisation et problèmes inverses en observation de la Terre et de l'Univers          |
 | 12h20-14h20 | **Buffet + posters**     |
@@ -19,6 +19,18 @@ Vendredi 16 Février 2024
 
 <br>
 
+
+
+<div class="speaker-container">
+    <div class="speaker-name">Yohann De Castro</div>
+    <div class="speaker-title">Convex regularization on measures for GMMs</div>
+    
+    <div class="speaker-abstract">
+The Gaussian mixture model (GMM) is an important model in unsupervised machine learning. It allows you to obtain a partition of a point cloud. In this talk, we will present a new way to solve this problem based on a parsimonious regression model on the measurement space. This point of view will allow us to remove a barrier in MMG: the selection of the size of the model, here the number of mixing components. We will give theoretical guarantees to this approach. We will show that our approach is compatible with dimension reduction techniques, such as “sketching”. In the context of GMM this amounts to projecting the point cloud into a dimensional space not depending on the number of points but on the size of the model to be estimated (within log factors). In practice this allows the MMG to be scaled up to significant scales, understood here as a significant number of points. Hoping that I will not be too long on these first aspects, I will discuss an algorithm to solve the regression problem on the space of measurements that we will have considered. This algorithm, called particle gradient descent on the cone, is compatible with the “sketching” mentioned above. We will show that it is possible to give theoretical guarantees to the stochastic version of this gradient descent.
+
+The results presented are the fruit of contributions on very similar subjects from several researchers including Claire Boyer, Cathy Maugis, Clément Marteau, Sébastien Gadat, Vincent Duval, Rémi Gribonval, Gabriel Peyré, Clarice Poon, Nicolas Jouvin, Lénaïc Chizat, Francis Bach, and Gilles Blanchard. An article introducing this new method is “SuperMix: Sparse Regularization for Mixtures”, with S. Gadat & C. Marteau & C. Maugis-Rabusseau, Annals of Statistics, 2021, Vol. 49, No. 3, 1779-1809.
+	    </div>
+</div>
 
 
 
