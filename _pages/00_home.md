@@ -64,3 +64,4 @@ Bibliothèque Marie Curie<br>INSA Lyon
 
 **Sponsors** : Nous remercions la FIL et le projet ANR LoRAiA 20-CE23-0010 qui soutiennent la journée POPILS
 
+<center><img src="/assets/img/logos/logoFIL.png" style="height:80px"></center>
