@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: "POPILS"
-name_year: "POPILS 2024"
+name_year: "POPILS 2025"
 email:
 description: > # this means to ignore newlines until "url:"
   Journée Lyon Saint-Etienne sur la parcimonie, l'optimisation et les problèmes inverse
