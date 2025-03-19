@@ -26,7 +26,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a> <br>Directrice de Recherche<br>LIRIS<br>CNRS LIRIS Lyon</td>
-    <td style="text-align:center"><a href="https://www.emse.fr/~leriche/">Rodolphe Leriche</a> <br>Directeur de Recherche<br><br>CNRS LIMOS EMSE Saint-Etienne</td>
+    <td style="text-align:center"><a href="https://www.emse.fr/~leriche/">Rodolphe Leriche</a> <br>Directeur de Recherche<br>CNRS LIMOS EMSE Saint-Etienne</td>
     <td style="text-align:center"><a href="https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/pustelnik-nelly">Nelly Pustelnik</a> <br>Directrice de Recherche<br>Lab PHYS CNRS<br>ENS Lyon</td>
     <td style="text-align:center"><a href="https://www.antoinecollas.fr/">Antoine Collas</a><br>Chercheur postdoctoral<br>INRIA<br>Saclay</td>
   </tr>
