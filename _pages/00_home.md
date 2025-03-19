@@ -38,7 +38,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 <div class="one-third" style="magin-top:5%">
 
-Vendredi 19 juin 2025<br><br>
+Jeudi 19 juin 2025<br><br>
 
 B104 Polytech Annecy<br> 
 </div><div class="two-third">
