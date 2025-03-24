@@ -3,32 +3,30 @@ layout: page
 permalink: /schedule/
 title: Programme
 ---
-Vendredi 16 Février 2024
+Vendredi 19 juin 2025
 
 | Horaire      | Orateur              |
 |------------- |----------------------|
 | 9h30-9h55   | **Acceuil**              |
 | 9h55-10h    | **Mot d'ouverture**      |
-| 10h-10h50   | **Julie Digne** - INR     |
+| 10h-10h50   |  **Nelly Pustelnik** -  Réseaux de neurones déroulés et approches Plug-n-Play   |
 | 10h50-11h30 | **Pause café + posters** |
-| 11h30-12h20 | **Rodolphe Le Riche**  - Bayesian optimization with derivatives acceleration         |
+| 11h30-12h20 | **Rodolphe Le Riche**  - Bayesian optimization with derivatives acceleration  |
 | 12h20-14h20 | **Buffet + posters**     |
-| 14h20-15h10 | **Nelly Pustelnik** -  Unrolling    |
-| 15h10-16h00 | **Antoine Collas** -  Riemannian      |
+| 14h20-15h10 |  **Julie Digne** - Apprentissage de représentation neuronale implicite.    |
+| 15h10-16h00 | **Antoine Collas** -  Apprentissage automatique par optimisation Riemannienne  |
 
 
 <br>
 
 <div class="speaker-container">
-    <div class="speaker-name">Julie Digne</div>
-    <div class="speaker-title">XXX</div>
+    <div class="speaker-name">Nelly Pustelnik</div>
+    <div class="speaker-title">Réseaux de neurones déroulés et approches Plug-n-Play</div>
     
     <div class="speaker-abstract">
-XXXX
-
-XX
 	    </div>
 </div>
+
 
 <div class="speaker-container">
     <div class="speaker-name">Rodolphe Le Riche </div>
@@ -41,26 +39,21 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 </div>
 
 <div class="speaker-container">
-    <div class="speaker-name">Nelly Pustelnik</div>
-    <div class="speaker-title">XXX</div>
+    <div class="speaker-name">Julie Digne</div>
+    <div class="speaker-title">Apprentissage de représentation neuronale implicite.</div>
     
     <div class="speaker-abstract">
-XXXX
+    </div>
 
-XX
-	    </div>
 </div>
-
 
 <div class="speaker-container">
     <div class="speaker-name">Antoine Collas</div>
-    <div class="speaker-title">XXX</div>
+    <div class="speaker-title"> Apprentissage automatique par optimisation Riemannienne</div>
     
     <div class="speaker-abstract">
-XXXX
-
-XX
-	    </div>
+	   
+ </div>
 </div>
 
 
