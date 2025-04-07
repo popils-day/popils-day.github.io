@@ -2,7 +2,7 @@
 layout: redirect
 permalink: /cfp/
 title: Inscription
-redirect: https://framaforms.org/registation-to-popils-day-1697722058
+redirect: https://framaforms.org/popilss-registration-1744031809
 ---
 
 

@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "POPILS"
-name_year: "POPILS 2025"
+name: "POPILSS"
+name_year: "POPILSS 2025"
 email:
 description: > # this means to ignore newlines until "url:"
   Journée Lyon Saint-Etienne sur la parcimonie, l'optimisation et les problèmes inverse
@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: POPILS
+blog_name: POPILSS
 blog_description: Journée Parcimonie Optimisation et Problèmes Inverses Lyon Saint-Etienne
 
 # Pagination
