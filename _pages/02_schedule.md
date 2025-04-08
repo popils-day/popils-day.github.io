@@ -14,19 +14,10 @@ Vendredi 19 juin 2025
 | 11h30-12h20 | **Julie Digne** - Apprentissage de représentation neuronale implicite.  |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Rodolphe Le Riche**  - Bayesian optimization with derivatives acceleration    |
-| 15h10-16h00 | **Romain Vo** -   |
+| 15h10-16h00 | **Romain Vo** - Méthodes d'apprentissage pour la tomographie par rayons X  |
 
 
 <br>
-
-<div class="speaker-container">
-    <div class="speaker-name">Romain Vo</div>
-    <div class="speaker-title"></div>
-    
-    <div class="speaker-abstract">
-	    </div>
-</div>
-
 
 <div class="speaker-container">
     <div class="speaker-name">Rodolphe Le Riche </div>
@@ -54,6 +45,15 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
     <div class="speaker-abstract">
 	   
  </div>
+</div>
+
+
+<div class="speaker-container">
+    <div class="speaker-name">Romain Vo</div>
+    <div class="speaker-title"></div>
+    
+    <div class="speaker-abstract">
+	    </div>
 </div>
 
 
