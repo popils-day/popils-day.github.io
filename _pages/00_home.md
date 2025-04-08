@@ -64,5 +64,3 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
 </ul>
 <br>
 
-**Sponsors** : Nous remercions xxx qui soutiennent la journée POPILSS
-
