@@ -46,9 +46,7 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
     
     <div class="speaker-abstract">
         <i>Abstract à venir.</i>
-    </div>
-	   
- </div>
+     </div>
 </div>
 
 
