@@ -9,7 +9,7 @@ Vendredi 19 juin 2025
 |------------- |----------------------|
 | 9h30-9h55   | **Accueil**              |
 | 9h55-10h    | **Mot d'ouverture**      |
-| 10h-10h50   | **Antoine Collas** -  Apprentissage automatique par optimisation Riemannienne  |
+| 10h-10h50   | **Antoine Collas** -   Adapter les modèles d’apprentissage aux changements de distribution : le rôle de la normalisation< |
 | 10h50-11h30 | **Pause café + posters** |
 | 11h30-12h20 | **Julie Digne** - Apprentissage de représentation neuronale implicite.  |
 | 12h20-14h20 | **Buffet + posters**     |
