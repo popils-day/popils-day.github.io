@@ -7,7 +7,7 @@ Vendredi 19 juin 2025
 
 | Horaire      | Orateur              |
 |------------- |----------------------|
-| 9h30-9h55   | **Acceuil**              |
+| 9h30-9h55   | **Accueil**              |
 | 9h55-10h    | **Mot d'ouverture**      |
 | 10h-10h50   | **Antoine Collas** -  Apprentissage automatique par optimisation Riemannienne  |
 | 10h50-11h30 | **Pause café + posters** |
@@ -50,7 +50,7 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
     <div class="speaker-name">Romain Vo</div>
-    <div class="speaker-title"></div>
+    <div class="speaker-title">Méthodes d'apprentissage pour la tomographie par rayons X </div>
     
     <div class="speaker-abstract">
 	    </div>
