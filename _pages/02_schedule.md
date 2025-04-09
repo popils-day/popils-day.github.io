@@ -42,10 +42,10 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
     <div class="speaker-name">Antoine Collas</div>
-    <div class="speaker-title"> Apprentissage automatique par optimisation Riemannienne <i>(le titre définitif peut évoluer)</i> </div>
+    <div class="speaker-title"> Adapter les modèles d’apprentissage aux changements de distribution : le rôle de la normalisation</div>
     
     <div class="speaker-abstract">
-        <i>Abstract à venir.</i>
+        Les changements de distribution entre les jeux de données source et cible posent un défi majeur en apprentissage automatique. Dans cet exposé, je présenterai des approches récentes pour adapter les modèles à ces changements, avec un focus particulier sur les techniques de normalisation. Je discuterai du rôle souvent sous-estimé de la normalisation dans la généralisation et l’adaptation, en montrant comment des choix adaptés peuvent significativement améliorer les performances en transfert. J’illustrerai ces idées sur des cas concrets, notamment en neurosciences, où les signaux varient fortement d’un sujet ou d’un appareil à l’autre.
      </div>
 </div>
 
