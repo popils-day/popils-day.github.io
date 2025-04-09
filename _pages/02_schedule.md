@@ -31,18 +31,22 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
     <div class="speaker-name">Julie Digne</div>
-    <div class="speaker-title">Apprentissage de représentation neuronale implicite.</div>
+    <div class="speaker-title">Apprentissage de représentation neuronale implicite. <i>(le titre de la présentation peut évoluer au gré du choix de l'orateur)</i></div>
     
     <div class="speaker-abstract">
+    <i>Abstract à venir.</i>
+    
     </div>
 
 </div>
 
 <div class="speaker-container">
     <div class="speaker-name">Antoine Collas</div>
-    <div class="speaker-title"> Apprentissage automatique par optimisation Riemannienne</div>
+    <div class="speaker-title"> Apprentissage automatique par optimisation Riemannienne <i>(le titre de la présentation peut évoluer au gré du choix de l'orateur)</i> </div>
     
     <div class="speaker-abstract">
+        <i>Abstract à venir.</i>
+    </div>
 	   
  </div>
 </div>
@@ -50,9 +54,10 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
     <div class="speaker-name">Romain Vo</div>
-    <div class="speaker-title">Méthodes d'apprentissage pour la tomographie par rayons X </div>
+    <div class="speaker-title">Méthodes d'apprentissage pour la tomographie par rayons X <i>(le titre de la présentation peut évoluer au gré du choix de l'orateur)</i></div>
     
     <div class="speaker-abstract">
+        <i>Abstract à venir.</i>
 	    </div>
 </div>
 
