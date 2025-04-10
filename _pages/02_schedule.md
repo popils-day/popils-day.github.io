@@ -11,7 +11,7 @@ Vendredi 19 juin 2025
 | 9h55-10h    | **Mot d'ouverture**      |
 | 10h-10h50   | **Antoine Collas** - Adapting learning models to distribution shifts: the role of normalization|
 | 10h50-11h30 | **Pause café + posters** |
-| 11h30-12h20 | **Julie Digne** - Apprentissage de représentation neuronale implicite.  |
+| 11h30-12h20 | **Julie Digne** - Implicit Neural Representation for Geometry Processing   |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Rodolphe Le Riche**  - Bayesian optimization with derivatives acceleration    |
 | 15h10-16h00 | **Romain Vo** - Méthodes d'apprentissage pour la tomographie par rayons X  |
@@ -31,11 +31,10 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
     <div class="speaker-name">Julie Digne</div>
-    <div class="speaker-title">Apprentissage de représentation neuronale implicite <i>(le titre définitif peut évoluer)</i></div>
+    <div class="speaker-title">Implicit Neural Representation for Geometry Processing</div>
     
     <div class="speaker-abstract">
-    <i>Abstract à venir.</i>
-    
+    Implicit Neural Representations are powerful tools for representing 3D shapes. They encode an implicit field in the parameters of a Neural Network, leveraging the power of auto-differentiation for optimizing the implicit function and avoiding the need for manually crafted basis functions. They can work on single shapes, or be conditioned by a latent shape space. In this talk, I will explain the principles behind implicit neural representation and show several applications for shape analysis skeleton extraction and shape deformation.     
     </div>
 
 </div>
