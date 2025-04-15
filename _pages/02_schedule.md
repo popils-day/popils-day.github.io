@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Programme
 ---
-Vendredi 19 juin 2025
+Jeudi 19 juin 2025
 
 | Horaire      | Orateur              |
 |------------- |----------------------|
