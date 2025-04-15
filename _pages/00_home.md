@@ -64,3 +64,5 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
 </ul>
 <br>
 
+<center><img src="/assets/img/logos/USMB.png" style="height:80px"></center>
+<!-- <center><img src="/assets/img/logos/Polytech-Annecy.png" style="height:80px"></center> -->
