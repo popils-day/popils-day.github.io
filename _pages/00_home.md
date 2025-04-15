@@ -26,7 +26,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a> <br>Directrice de Recherche<br>LIRIS<br>CNRS LIRIS Lyon</td>
-    <td style="text-align:center"><a href="https://www.emse.fr/~leriche/">Rodolphe Leriche</a> <br>Directeur de Recherche<br>CNRS LIMOS EMSE Saint-Etienne</td>
+    <td style="text-align:center"><a href="https://www.emse.fr/~leriche/">Rodolphe Le Riche</a> <br>Directeur de Recherche<br>CNRS LIMOS EMSE Saint-Etienne</td>
     <td style="text-align:center"><a href="https://romainvo.github.io/">Romain Vo</a> <br>Chercheur postdoctoral<br>Lab Physique<br>ENS Lyon</td>
     <td style="text-align:center"><a href="https://www.antoinecollas.fr/">Antoine Collas</a><br>Chercheur postdoctoral<br>INRIA<br>Saclay</td>
   </tr>
@@ -56,7 +56,7 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
   <li><a href="https://y-mhiri.github.io/">Yassine Mhiri</a>, LISTIC</li>
   <li><a href="https://argheesh.github.io/">Argheesh Bhanot</a>, LISTIC</li>
   <li><a href="https://jeremy-e-cohen.jimdofree.com/">Jérémy Cohen</a>, CNRS, CREATIS</li>
-  <li><a href="https://jordan-frecon.com/">Jordan Frecon</a>, LabHC</li>
+  <li><a href="https://jordan-frecon.com/">Jordan Patracone</a>, LabHC</li>
   <li><a href="https://maximeguillaud.github.io/">Maxime Guillaud</a>, Inria, CITI</li>
   <li><a href="http://perso.ens-lyon.fr/nelly.pustelnik/">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
   <li><a href="http://math.univ-lyon1.fr/~seppecher/">Laurent Seppecher</a>, ICJ</li>
