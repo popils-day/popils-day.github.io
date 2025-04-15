@@ -52,7 +52,7 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
 
 <h3>Equipe organisatrice</h3>
 
-<div class="two-third" style="magin-top:5%">
+<div class="one-third" style="magin-top:5%">
 <ul>
   <li><a href="https://y-mhiri.github.io/">Yassine Mhiri</a>, LISTIC</li>
   <li><a href="https://argheesh.github.io/">Argheesh Bhanot</a>, LISTIC</li>
@@ -65,7 +65,7 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
 </ul>
 <br>
 </div>
-<div class="one-third">
-<img src="/assets/img/logos/USMB.png" style="height:80px">
+<div class="two-third">
+<img src="/assets/img/logos/USMB.png" style="height:33%">
 </div>
 <!-- <center><img src="/assets/img/logos/Polytech-Annecy.png" style="height:80px"></center> -->
