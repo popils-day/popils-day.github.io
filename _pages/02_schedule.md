@@ -14,7 +14,7 @@ Jeudi 19 juin 2025
 | 11h30-12h20 | **Julie Digne** - Implicit Neural Representation for Geometry Processing   |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Rodolphe Le Riche**  - Bayesian optimization with derivatives acceleration    |
-| 15h10-16h00 | **Romain Vo** - Méthodes d'apprentissage pour la tomographie par rayons X  |
+| 15h10-16h00 | **Romain Vo** - Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT |
 
 
 <br>
@@ -51,11 +51,11 @@ This talk corresponds to the paper : Guillaume Perrin and Rodolphe Le Riche Baye
 
 <div class="speaker-container">
 <div class="speaker-name">Romain Vo</div>
-<div class="speaker-title">Méthodes d'apprentissage pour la tomographie par rayons X <i>(le titre définitif peut évoluer)</i></div>
+<div class="speaker-title">Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT</div>
     
     <div class="speaker-abstract">
-        <i>Abstract à venir.</i>
-	    </div>
+        X-ray computed tomography (CT) involves the reconstruction of the 3D image of an object from a set of measurements called radiographs. It is an essential imaging technique in the medical field, as well as the non-destructive testing of industrial components. In these two applications, there is a common need to produce reliable and high-quality images using a minimal number of projections. Unfortunately, reducing the number of measurements leads to the appearance of artifacts in the reconstructed image, significantly affecting its quality. In this talk, I will present a memory-efficient procedure based on implicit neural representation for reconstructing high-quality 3D images from minimal projections. I will also discuss an evaluation framework that goes beyond standard distortion metrics to assess the quality of reconstructed images, ensuring they are suitable for specific applications using the observer framework.
+	</div>
 </div>
 
 
