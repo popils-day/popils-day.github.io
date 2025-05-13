@@ -69,6 +69,7 @@ Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt 
 </div>
 
 <p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI), l'Université Savoie Mont Blanc et Polytech Annecy Chambéry qui soutiennent cette édition de la journée POPILSS. </p>
+
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/USMB.png" style="width:20%">
 <!-- <img src="/assets/img/logos/IXXI.png" style="width:20%"> -->
