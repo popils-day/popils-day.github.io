@@ -46,7 +46,7 @@ Accès en bus : 15mn par la **Ligne 1** du réseau de bus <a href="https://www.s
  
 </div><div class="two-third">
 <div class="google-map">
-<iframe src="https://www.google.com/maps/embed/v1/place?q=polytech+annecy&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="370" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2775.5904382548547!2d6.155192476940135!3d45.91949777108505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b09ca8fe2ed71%3A0xcc490cd01f5e3328!2sPolytech&#39;Savoie!5e0!3m2!1sen!2sfr!4v1747163858173!5m2!1sen!2sfr" width="370" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
 
@@ -69,6 +69,7 @@ Accès en bus : 15mn par la **Ligne 1** du réseau de bus <a href="https://www.s
 </div>
 
 <p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI), l'Université Savoie Mont Blanc et Polytech Annecy Chambéry qui soutiennent cette édition de la journée POPILSS. </p>
+<br>
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/USMB.png" style="width:20%">
 <!-- <img src="/assets/img/logos/IXXI.png" style="width:20%"> -->
