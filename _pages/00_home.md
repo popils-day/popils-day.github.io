@@ -42,7 +42,7 @@ Jeudi 19 juin 2025<br><br>
 
 B104, Polytech Annecy<br><br>
 
-Accès en bus : ligne 1, arrêt de bus "Campus" depuis la gare d'Annecy, arrêt "Quai Sud" avec le service <a href="https://www.sibra.fr/">SIBRA </a> (temps de trajet : 15 minutes). 
+Accès en bus : 15mn par la Ligne 1 du réseau de bus <a href="https://www.sibra.fr/">SIBRA </a>. Départ depuis la station "Gare d'Annecy Quai Sud", prendre la direction "Parc des Glaisins" et s'arrêter à la station "Campus". 
  
 </div><div class="two-third">
 <div class="google-map">
