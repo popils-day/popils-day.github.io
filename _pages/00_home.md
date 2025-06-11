@@ -40,7 +40,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 Jeudi 19 juin 2025<br><br>
 
-B104, Polytech Annecy<br><br>
+B014, Polytech Annecy<br><br>
 
 Accès en bus : 15mn par la <strong>Ligne 1</strong> du réseau de bus <a href="https://www.sibra.fr/">SIBRA </a>. Départ depuis la station <strong>"Gare d'Annecy Quai Sud"</strong>, prendre la direction <strong>"Parc des Glaisins"</strong> et s'arrêter à la station <strong>"Campus"</strong>. 
  
