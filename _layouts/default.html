@@ -1,24 +1,30 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-  <body>
-
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
     {% include header.html %}
-
-
-    <div class="page-content">
-      <div class="header-background"><div class="img"></div><div class="text"><h2>{{ site.name_year }}</h2></div></div>
-      <div class="wrapper">
+    
+    <main class="main-content">
         {{ content }}
-      </div>
-    </div>
-
+    </main>
+    
     {% include footer.html %}
-
-    {% include hemline.html %}
-
-  </body>
-
+    
+    <!-- Scripts -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
 </html>
