@@ -1,0 +1,77 @@
+---
+layout: home
+permalink: /
+title: POPILSS2025
+desc_title: POPILSS
+description: Journée <b>P</b>arcimonie, <b>O</b>ptimisation et <b>P</b>roblèmes <b>I</b>nverses  <b>L</b>yon <b>S</b>aint-Etienne <b>S</b>avoie
+date: 19 juin 2025
+---
+
+
+Les journées POPILSS ont pour objectif de réunir les étudiants et les chercheurs de Lyon, Saint-Étienne et Annecy intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elles visent à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
+
+<br>
+Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/popilss-registration-1744031809">formulaire</a> avant le 19 mai 2025. L'inscription est gratuite mais obligatoire.<br>
+Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters.
+
+
+### Orateurs
+
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/photo_julie.png"></td>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/rodolphe_le_riche.png"></td>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/romain_vo.jpeg"></td>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/antoine_collas.jpg"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a> <br>Directrice de Recherche<br>LIRIS<br>CNRS LIRIS Lyon</td>
+    <td style="text-align:center"><a href="https://www.emse.fr/~leriche/">Rodolphe Le Riche</a> <br>Directeur de Recherche<br>CNRS LIMOS EMSE Saint-Etienne</td>
+    <td style="text-align:center"><a href="https://romainvo.github.io/">Romain Vo</a> <br>Chercheur postdoctoral<br>Lab Physique<br>ENS Lyon</td>
+    <td style="text-align:center"><a href="https://www.antoinecollas.fr/">Antoine Collas</a><br>Chercheur postdoctoral<br>INRIA<br>Saclay</td>
+  </tr>
+</table>
+
+
+
+### Date et lieu
+
+<div class="one-third" style="magin-top:5%">
+
+Jeudi 19 juin 2025<br><br>
+
+B014, Polytech Annecy<br><br>
+
+Accès en bus : 15mn par la <strong>Ligne 1</strong> du réseau de bus <a href="https://www.sibra.fr/">SIBRA </a>. Départ depuis la station <strong>"Gare d'Annecy Quai Sud"</strong>, prendre la direction <strong>"Parc des Glaisins"</strong> et s'arrêter à la station <strong>"Campus"</strong>. 
+ 
+</div><div class="two-third">
+<div class="google-map">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2775.5904382548547!2d6.155192476940135!3d45.91949777108505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b09ca8fe2ed71%3A0xcc490cd01f5e3328!2sPolytech&#39;Savoie!5e0!3m2!1sen!2sfr!4v1747163858173!5m2!1sen!2sfr" width="370" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+</div>
+
+<h3>Equipe organisatrice</h3>
+
+<div class="one-third" style="magin-top:5%">
+<ul>
+  <li><a href="https://y-mhiri.github.io/">Yassine Mhiri</a>, LISTIC</li>
+  <li><a href="https://argheesh.github.io/">Argheesh Bhanot</a>, LISTIC</li>
+  <li><a href="https://jeremy-e-cohen.jimdofree.com/">Jérémy Cohen</a>, CNRS, CREATIS</li>
+  <li><a href="https://jordan-frecon.com/">Jordan Patracone</a>, LabHC</li>
+  <li><a href="https://maximeguillaud.github.io/">Maxime Guillaud</a>, Inria, CITI</li>
+  <li><a href="http://perso.ens-lyon.fr/nelly.pustelnik/">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
+  <li><a href="http://math.univ-lyon1.fr/~seppecher/">Laurent Seppecher</a>, ICJ</li>
+  <li><a href="https://tachella.github.io/">Juliàn Tachella</a>, CNRS, ENS Lyon</li>
+</ul>
+<br>
+</div>
+<div class="two-third">
+</div>
+
+<p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI), l'Université Savoie Mont Blanc et Polytech Annecy Chambéry qui soutiennent cette édition de la journée POPILSS. </p>
+<br>
+<div style="display:flex; justify-content:center;">
+<img src="/assets/img/logos/USMB.png" style="width:20%">
+<!-- <img src="/assets/img/logos/IXXI.png" style="width:20%"> -->
+</div>
+<!-- <center><img src="/assets/img/logos/Polytech-Annecy.png" style="height:80px"></center> -->

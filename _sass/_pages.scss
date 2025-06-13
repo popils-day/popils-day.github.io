@@ -1,0 +1,61 @@
+.page-content {
+    padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+}
+.page-heading {
+    font-size: 20px;
+}
+.contacticon {
+    display: block;
+    font-size: 60px;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+}
+
+/* Styles for the title of the presentation */
+.speaker-title {
+    /*font-size: 1.3em;*/
+    font-weight: bold;
+    color: $purple;
+    margin-bottom: 0.3em;
+}
+
+/* Styles for the name of the speaker */
+.speaker-name {
+    font-size: 1.3em; /* Adjusted size for the name */
+    font-weight: bold;
+    color: #333; /* Dark color, you can customize this */
+    margin-bottom: 0.3em;
+}
+
+/* Styles for the abstract of the speaker */
+.speaker-abstract {
+    font-size: "smaller";
+    color: #555; /* Dark gray color */
+    margin-bottom: 1em;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* Container for each speaker */
+.speaker-container {
+    border: 2px solid #ddd; /* Light gray border */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft box shadow */
+}
+
+/* Hover effect for each speaker */
+.speaker-container:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.rounded-image {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 175px;
+}
