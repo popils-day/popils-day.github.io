@@ -11,8 +11,18 @@ date: 19 juin 2025
 Les journées POPILSS ont pour objectif de réunir les étudiants et les chercheurs de Lyon, Saint-Étienne et Annecy intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elles visent à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
 
 <br>
-Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/popilss-registration-1744031809">formulaire</a> avant le 19 mai 2025. L'inscription est gratuite mais obligatoire.<br>
-Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters.
+<!-- Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/popilss-registration-1744031809">formulaire</a> avant le 19 mai 2025. L'inscription est gratuite mais obligatoire.<br>
+Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters. -->
+Les slides de cette seconde édition sont à retrouver ici :
+
+
+| Orateur| Titre de la présentation   |  Lien          |
+|------------- |----------------------|---------------------|
+| **Antoine Collas** | Adapting learning models to distribution shifts: the role of normalization| [pdf]({{ site.url }}/pdf/adapting2025collas.pdf)|
+| **Julie Digne** | Implicit Neural Representation for Geometry Processing   | [pdf]({{ site.url }}/pdf/implicit2025digne.pdf) |
+| **Rodolphe Le Riche**  | Bayesian optimization with derivatives acceleration | [pdf]({{ site.url }}/pdf/leriche2025accelerate.pdf) |
+| **Romain Vo** | Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT | |
+
 
 
 ### Orateurs
