@@ -21,7 +21,7 @@ Les slides de cette seconde édition sont à retrouver ici :
 | **Antoine Collas** | Adapting learning models to distribution shifts: the role of normalization| [pdf]({{ site.url }}/pdf/adapting2025collas.pdf)|
 | **Julie Digne** | Implicit Neural Representation for Geometry Processing   | [pdf]({{ site.url }}/pdf/implicit2025digne.pdf) |
 | **Rodolphe Le Riche**  | Bayesian optimization with derivatives acceleration | [pdf]({{ site.url }}/pdf/leriche2025accelerate.pdf) |
-| **Romain Vo** | Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT | |
+| **Romain Vo** | Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT |[pdf]({{ site.url }}/pdf/vo2025memory.pdf) |
 
 
 
