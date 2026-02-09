@@ -13,16 +13,6 @@ Les journées POPILSS ont pour objectif de réunir les étudiants et les cherche
 <br>
 <!-- Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/popilss-registration-1744031809">formulaire</a> avant le 19 mai 2025. L'inscription est gratuite mais obligatoire.<br>
 Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters. -->
-Les slides de cette seconde édition sont à retrouver ici :
-
-
-| Orateur| Titre de la présentation   |  Lien          |
-|------------- |----------------------|---------------------|
-| **Prenom Nom** | ...||
-| **Prenom Nom** | ...  ||
-| **Prenom Nom**  | ... ||
-| **Prenom Nom** | ... ||
-
 
 
 ### Orateurs
