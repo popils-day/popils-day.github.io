@@ -72,6 +72,5 @@ Accès en bus : ??mn par la <strong>Ligne ...</strong> du réseau de bus ??. Dé
 <br>
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/abc.png" style="width:20%">
-<!-- <img src="/assets/img/logos/abc.png" style="width:20%"> -->
 </div>
 <!-- <center><img src="/assets/img/logos/abc.png" style="height:80px"></center> -->
