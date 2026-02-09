@@ -18,10 +18,10 @@ Les slides de cette seconde édition sont à retrouver ici :
 
 | Orateur| Titre de la présentation   |  Lien          |
 |------------- |----------------------|---------------------|
-| **Antoine Collas** | Adapting learning models to distribution shifts: the role of normalization| [pdf]({{ site.url }}/pdf/adapting2025collas.pdf)|
-| **Julie Digne** | Implicit Neural Representation for Geometry Processing   | [pdf]({{ site.url }}/pdf/implicit2025digne.pdf) |
-| **Rodolphe Le Riche**  | Bayesian optimization with derivatives acceleration | [pdf]({{ site.url }}/pdf/leriche2025accelerate.pdf) |
-| **Romain Vo** | Memory-efficient reconstruction and task-based evaluation for sparse-view  X-ray CT |[pdf]({{ site.url }}/pdf/vo2025memory.pdf) |
+| **Prenom Nom** | ...||
+| **Prenom Nom** | ...  ||
+| **Prenom Nom**  | ... ||
+| **Prenom Nom** | ... ||
 
 
 
@@ -52,7 +52,7 @@ Jeudi 19 juin 2025<br><br>
 
 B120, Polytech Annecy<br><br>
 
-Accès en bus : 15mn par la <strong>Ligne 1</strong> du réseau de bus <a href="https://www.sibra.fr/">SIBRA </a>. Départ depuis la station <strong>"Gare d'Annecy Quai Sud"</strong>, prendre la direction <strong>"Parc des Glaisins"</strong> et s'arrêter à la station <strong>"Campus"</strong>. 
+Accès en bus : ??mn par la <strong>Ligne ...</strong> du réseau de bus ??. Départ depuis la station <strong>"Gare de ..."</strong>, prendre la direction <strong>"..."</strong> et s'arrêter à la station <strong>"..."</strong>. 
  
 </div><div class="two-third">
 <div class="google-map">
@@ -64,10 +64,10 @@ Accès en bus : 15mn par la <strong>Ligne 1</strong> du réseau de bus <a href="
 
 <div class="one-third" style="magin-top:5%">
 <ul>
+  <li><a href="https://jordan-frecon.com/">Jordan Patracone</a>, LabHC</li>
   <li><a href="https://y-mhiri.github.io/">Yassine Mhiri</a>, LISTIC</li>
   <li><a href="https://argheesh.github.io/">Argheesh Bhanot</a>, LISTIC</li>
   <li><a href="https://jeremy-e-cohen.jimdofree.com/">Jérémy Cohen</a>, CNRS, CREATIS</li>
-  <li><a href="https://jordan-frecon.com/">Jordan Patracone</a>, LabHC</li>
   <li><a href="https://maximeguillaud.github.io/">Maxime Guillaud</a>, Inria, CITI</li>
   <li><a href="http://perso.ens-lyon.fr/nelly.pustelnik/">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
   <li><a href="http://math.univ-lyon1.fr/~seppecher/">Laurent Seppecher</a>, ICJ</li>
@@ -78,7 +78,7 @@ Accès en bus : 15mn par la <strong>Ligne 1</strong> du réseau de bus <a href="
 <div class="two-third">
 </div>
 
-<p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI), l'Université Savoie Mont Blanc et Polytech Annecy Chambéry qui soutiennent cette édition de la journée POPILSS. </p>
+<p> <strong>Sponsors:</strong> Nous remercions ... qui soutiennent cette édition de la journée POPILSS 2026. </p>
 <br>
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/USMB.png" style="width:20%">
