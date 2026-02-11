@@ -46,7 +46,7 @@ Accès en bus : ??mn par la <strong>Ligne ...</strong> du réseau de bus ??. Dé
  
 </div><div class="two-third">
 <div class="google-map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2775.5904382548547!2d6.155192476940135!3d45.91949777108505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478b09ca8fe2ed71%3A0xcc490cd01f5e3328!2sPolytech&#39;Savoie!5e0!3m2!1sen!2sfr!4v1747163858173!5m2!1sen!2sfr" width="370" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109443.85486252946!2d4.2840673016069!3d45.42407432732019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5abff0dcfe415%3A0x631b2db87635756!2sSaint-%C3%89tienne!5e1!3m2!1sen!2sfr!4v1770803247517!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
 
