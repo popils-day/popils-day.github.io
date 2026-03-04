@@ -5,7 +5,7 @@ name: "POPILSS"
 name_year: "POPILSS 2026"
 email:
 description: > # this means to ignore newlines until "url:"
-  Journée Lyon Saint-Etienne sur la parcimonie, l'optimisation et les problèmes inverse
+  Journée Lyon Saint-Etienne Savoie sur la parcimonie, l'optimisation et les problèmes inverse
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -34,7 +34,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: POPILSS
-blog_description: Journée Parcimonie Optimisation et Problèmes Inverses Lyon Saint-Etienne
+blog_description: Journée Parcimonie Optimisation et Problèmes Inverses Lyon Saint-Etienne Savoie
 
 # Pagination
 paginate: 4
