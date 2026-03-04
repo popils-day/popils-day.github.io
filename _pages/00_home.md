@@ -43,12 +43,14 @@ Jeudi 10 juin 2026<br><br>
 Amphithéatre J020, Télécom Saint-Etienne<br><br>
 
 
-Accès depuis la gare Chateaucreux:
-- A pied: 20min
-- Tram T2 (direction "Bellevue") arrêt "Zenith-comédie": 25min
-- Tram T3 (direction "Cité du design" ) arrêt "Cité du design": 25min
+Accès depuis la **gare Chateaucreux**:
+<ul>
+	<li>A pied: 20min</li>
+	<li>Tram T2 (direction "Bellevue") arrêt "Zenith-comédie": 25min</li>
+	<li>Tram T3 (direction "Cité du design" ) arrêt "Cité du design": 25min</li>
+</ul>
 
-Si vous venez en voiture, il est recommandé de se garer sur le parking du Zenith
+Si vous venez en **voiture**, il est recommandé de se garer sur le parking du Zenith
  
 </div><div class="two-third">
 <div class="google-map">
