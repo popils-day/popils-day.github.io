@@ -19,13 +19,13 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/user.png"></td>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/emilie_morvant.jpg" height="175"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/user.png"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/user.jpeg"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/user.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://duckduckgo.com/">Prenom Nom</a> <br>...<br>...<br>...</td>
+    <td style="text-align:center"><a href="https://emorvant.github.io/">Emilie Morvant</a> <br>Maître de conférences<br>Lab. Hubert Curien<br>Univ. Jean Monnet</td>
     <td style="text-align:center"><a href="https://duckduckgo.com/">Prenom Nom</a> <br>...<br> ...</td>
     <td style="text-align:center"><a href="https://duckduckgo.com/">Prenom Nom</a> <br>...<br>... ...<br>...</td>
     <td style="text-align:center"><a href="https://duckduckgo.com/">Prenom Nom</a><br>...<br>...<br>...</td>
@@ -40,13 +40,13 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 Jeudi 10 juin 2026<br><br>
 
-??, ?? ??<br><br>
+Amphithéatre J020, Télécom Saint-Etienne<br><br>
 
 Accès en bus : ??mn par la <strong>Ligne ...</strong> du réseau de bus ??. Départ depuis la station <strong>"Gare de ..."</strong>, prendre la direction <strong>"..."</strong> et s'arrêter à la station <strong>"..."</strong>. 
  
 </div><div class="two-third">
 <div class="google-map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109443.85486252946!2d4.2840673016069!3d45.42407432732019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5abff0dcfe415%3A0x631b2db87635756!2sSaint-%C3%89tienne!5e1!3m2!1sen!2sfr!4v1770803247517!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.8656459701206!2d4.3829581930995305!3d45.452363459651856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5a97270997f73%3A0xc8d67b5196a79919!2zVMOpbMOpY29tIFNhaW50LcOJdGllbm5l!5e0!3m2!1sfr!2sfr!4v1772613622744!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
 
