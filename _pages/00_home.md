@@ -17,7 +17,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 ### Orateurs
 
-<table style="width:75%">
+<table style="width:95%">
   <tr>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/emilie_morvant.jpg" height="175"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/ammar_mian.jpeg" height="175"></td>
