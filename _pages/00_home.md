@@ -17,12 +17,12 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 ### Orateurs
 
-<table style="width:95%">
+<table style="width:100%">
   <tr>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/emilie_morvant.jpg" height="175"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/ammar_mian.jpeg" height="175"></td>
     <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/stephane_chretien.jpg" height="175"></td>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175" src = "assets/img/speakers/user.jpg"></td>
+    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://emorvant.github.io/">Emilie Morvant</a> <br>Maître de conférences<br>Lab. Hubert Curien<br>Univ. Jean Monnet</td>
