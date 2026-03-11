@@ -59,3 +59,11 @@
     overflow: hidden;
     height: 175px;
 }
+
+
+.speaker-photo {
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  object-fit: cover;
+}

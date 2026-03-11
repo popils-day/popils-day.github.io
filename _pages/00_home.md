@@ -19,10 +19,10 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/emilie_morvant.jpg" height="175"></td>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/ammar_mian.jpeg" height="175"></td>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/speakers/stephane_chretien.jpg" height="175"></td>
-    <td style="text-align:center"><img class="rounded-image" src="assets/img/user.png" height="175"></td>
+    <td style="text-align:center"><img class="speaker-photo" src="assets/img/speakers/emilie_morvant.jpg"></td>
+    <td style="text-align:center"><img class="speaker-photo" src="assets/img/speakers/ammar_mian.jpeg"></td>
+    <td style="text-align:center"><img class="speaker-photo" src="assets/img/speakers/stephane_chretien.jpg" ></td>
+    <td style="text-align:center"><img class="speaker-photo" src="assets/img/user.png"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://emorvant.github.io/">Emilie Morvant</a> <br>Maître de conférences<br>Lab. Hubert Curien<br>Univ. Jean Monnet</td>
@@ -76,7 +76,7 @@ Si vous venez en <strong>voiture</strong>, il est recommandé de se garer sur le
 <div class="two-third">
 </div>
 
-<p> <strong>Sponsors:</strong> Nous remercions ... qui soutiennent cette édition de la journée POPILSS 2026. </p>
+<p> <strong>Sponsors:</strong> Nous remercions Télécom Saint-Etienne qui soutient cette édition de la journée POPILSS 2026. </p>
 <br>
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/abc.png" style="width:20%">
