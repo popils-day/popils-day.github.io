@@ -14,7 +14,7 @@ Jeudi 10 juin 2026
 | 11h30-12h20 | **Stéphane Chrétien** - Tukey-Median of Means-Gradients for Langevin Dynamics   |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Ammar Mian**  - TBC    |
-| 15h10-16h00 | **Prenom Nom** - Titre |
+| 15h10-16h00 | **Valentin Debarnot** - TBC |
 
 
 <br>
@@ -47,11 +47,11 @@ TBC
 	    </div>
 </div>
 <div class="speaker-container">
-    <div class="speaker-name">Prenom Nom </div>
-    <div class="speaker-title">Titre</div>
+    <div class="speaker-name">Valentin Debarnot</div>
+    <div class="speaker-title">TBC</div>
     
     <div class="speaker-abstract">
-Abstract
+TBC
 	    </div>
 </div>
 
