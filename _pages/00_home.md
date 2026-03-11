@@ -54,7 +54,7 @@ Si vous venez en <strong>voiture</strong>, il est recommandé de se garer sur le
  
 </div><div class="two-third">
 <div class="google-map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.8656459701206!2d4.3829581930995305!3d45.452363459651856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5a97270997f73%3A0xc8d67b5196a79919!2zVMOpbMOpY29tIFNhaW50LcOJdGllbm5l!5e0!3m2!1sfr!2sfr!4v1772613622744!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.8656459701206!2d4.3829581930995305!3d45.452363459651856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5a97270997f73%3A0xc8d67b5196a79919!2zVMOpbMOpY29tIFNhaW50LcOJdGllbm5l!5e0!3m2!1sfr!2sfr!4v1772613622744!5m2!1sfr!2sfr" width="420" height="315" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
 
