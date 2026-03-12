@@ -14,7 +14,7 @@ Jeudi 10 juin 2026
 | 11h30-12h20 | **Stéphane Chrétien** - Tukey-Median of Means-Gradients for Langevin Dynamics   |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Ammar Mian**  - TBC    |
-| 15h10-16h00 | **Valentin Debarnot** - TBC |
+| 15h10-16h00 | **Valentin Debarnot** - Learning in tomography imaging |
 
 
 <br>
@@ -48,10 +48,14 @@ TBC
 </div>
 <div class="speaker-container">
     <div class="speaker-name">Valentin Debarnot</div>
-    <div class="speaker-title">TBC</div>
+    <div class="speaker-title">Learning in tomography imaging</div>
     
     <div class="speaker-abstract">
-TBC
+Electron tomography reconstructs three-dimensional volumes from a limited number of projection images acquired along fixed directions. Because the range of accessible angles is restricted, the associated reconstruction problem is highly ill-posed: the acquisition operator has a large kernel, meaning that significant information about the volume is missing. In addition, the observations are extremely noisy (often with a negative signal-to-noise ratio) and the volumes to reconstruct are very large. These challenges make the design of appropriate reconstruction algorithms essential. 
+
+In this presentation, we will show how self-supervised learning can be used to recover information lying in the kernel of the acquisition operator and to effectively remove noise. This is achieved by exploiting the specific structure of the tomography problem together with equivariance-based priors. 
+
+Finally, we will show how these self-supervised approaches can be used to develop supervised learning methods that achieve comparable reconstruction quality while drastically reducing computation time (approximately 5 minutes instead of 12 hours).
 	    </div>
 </div>
 
