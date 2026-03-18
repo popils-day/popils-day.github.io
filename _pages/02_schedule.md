@@ -13,7 +13,7 @@ Jeudi 10 juin 2026
 | 10h50-11h30 | **Pause café + posters** |
 | 11h30-12h20 | **Stéphane Chrétien** - Tukey-Median of Means-Gradients for Langevin Dynamics   |
 | 12h20-14h20 | **Buffet + posters**     |
-| 14h20-15h10 | **Ammar Mian**  - TBC    |
+| 14h20-15h10 | **Ammar Mian**  - Apprentissage profond sur matrices de covariance : optimisation riemannienne    |
 | 15h10-16h00 | **Valentin Debarnot** - Learning in tomography imaging |
 
 
@@ -40,10 +40,12 @@ Median-of-Means (MoM) estimators have emerged as powerful tools for robust learn
 </div>
 <div class="speaker-container">
     <div class="speaker-name">Ammar Mian</div>
-    <div class="speaker-title">TBC</div>
+    <div class="speaker-title">Apprentissage profond sur matrices de covariance : optimisation riemannienne</div>
     
     <div class="speaker-abstract">
-TBC
+Les matrices symétriques définies positives (SPD) apparaissent naturellement dans de nombreux domaines — interfaces cerveau-machine, imagerie hyperspectrale, radar — et vivent sur une variété riemannienne dont la géométrie doit être respectée pour obtenir des méthodes performantes.
+Nous présentons deux contributions autour de l'apprentissage sur matrices SPD. La première concerne la normalisation par batch dans SPDnet, réseau dont les paramètres vivent sur la variété de Stiefel. Nous en dérivons formellement la rétropropagation via des équations de Sylvester, et proposons des alternatives efficaces à la moyenne géométrique réduisant le temps d'entraînement jusqu'à un facteur cinq. Une extension paramétrique, ARMAGNAC, apprend automatiquement la moyenne adaptée aux données. La seconde contribution aborde l'apprentissage fédéré privé sur données SPD : DP-RFedProj combine agrégation par projection et comptabilité Rényi DP, produisant des garanties de confidentialité indéependantes de la géométrie considérée.
+Cet exposé illustre comment la structure géométrique des données induit des problèmes d'optimisation non-triviaux, depuis la rétropropagation dans un réseau de neurones jusqu'à la comptabilité de la confidentialité dans un système distribué.
 	    </div>
 </div>
 <div class="speaker-container">
