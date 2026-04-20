@@ -79,8 +79,8 @@ Si vous venez en <strong>voiture</strong>, il est recommandé de se garer sur le
 
 <p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI) et Télécom Saint-Etienne qui soutiennent cette édition POPILSS 2026. </p>
 <br>
-<div style="display:flex; justify-content:center; align-items:center; gap:20px;">
-  <img src="/assets/img/logos/logoTSE.png" style="height:80px;">
-  <img src="/assets/img/logos/logoIXXI.png" style="height:80px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:40px;">
+  <img src="/assets/img/logos/logoIXXI.png" style="height:120px;">
+  <img src="/assets/img/logos/logoTSE.png" style="height:120px;">
 </div>
 <!-- <center><img src="/assets/img/logos/abc.png" style="height:80px"></center> -->
