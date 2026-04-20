@@ -77,7 +77,7 @@ Si vous venez en <strong>voiture</strong>, il est recommandé de se garer sur le
 <div class="two-third">
 </div>
 
-<p> <strong>Sponsors:</strong> Nous remercions Télécom Saint-Etienne qui soutient cette édition de la journée POPILSS 2026. </p>
+<p> <strong>Sponsors:</strong> Nous remercions l'Institut Rhônalpin des Systèmes Complexes (IXXI) et Télécom Saint-Etienne qui soutiennent cette édition POPILSS 2026. </p>
 <br>
 <div style="display:flex; justify-content:center;">
 <img src="/assets/img/logos/logoTSE.png" style="width:20%">
