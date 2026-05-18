@@ -11,6 +11,7 @@ date: 10 juin 2026
 Les journées POPILSS ont pour objectif de réunir les étudiants et les chercheurs de Lyon, Saint-Étienne et Annecy intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elles visent à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération.
 
 <br>
+<span style="color:red">Les inscriptions sont closes. Veuillez contacter <a href="mailto:jordan.patracone@univ-st-etienne.fr">jordan.patracone@univ-st-etienne.fr</a> pour tout renseignement.</span>
 <!-- Pour vous inscrire, veuillez remplir ce <a href="https://framaforms.org/popilss-registration-1744031809">formulaire</a> avant le 10 juin 2026. L'inscription est gratuite mais obligatoire.<br>
 Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des sessions posters. -->
 
