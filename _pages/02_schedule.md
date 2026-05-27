@@ -9,15 +9,25 @@ Jeudi 10 juin 2026
 |------------- |----------------------|
 | 9h30-9h55   | **Accueil**              |
 | 9h55-10h    | **Mot d'ouverture**      |
-| 10h-10h50   | **Emilie Morvant** - Mini-tutoriel PAC-Bayes : Des bornes de généralisation à des fonctions objectives |
+| 10h-10h50   | **Stéphane Chrétien** - Tukey-Median of Means-Gradients for Langevin Dynamics   |
 | 10h50-11h30 | **Pause café + posters** |
-| 11h30-12h20 | **Stéphane Chrétien** - Tukey-Median of Means-Gradients for Langevin Dynamics   |
+| 11h30-12h20 | **Emilie Morvant** - Mini-tutoriel PAC-Bayes : Des bornes de généralisation à des fonctions objectives |
 | 12h20-14h20 | **Buffet + posters**     |
 | 14h20-15h10 | **Ammar Mian**  - Apprentissage profond sur matrices de covariance : optimisation riemannienne    |
 | 15h10-16h00 | **Valentin Debarnot** - Learning in tomography imaging |
 
 
 <br>
+
+
+<div class="speaker-container">
+    <div class="speaker-name">Stéphane Chrétien</div>
+    <div class="speaker-title">Tukey-Median of Means-Gradients for Langevin Dynamics</div>
+    
+    <div class="speaker-abstract">
+Median-of-Means (MoM) estimators have emerged as powerful tools for robust learning when data are corrupted by outliers or exhibit heavy-tailed distributions. However, incorporating MoM principles to design robust loss functions typically renders the underlying optimization problem highly non-convex, posing significant challenges for the design of efficient, polynomial-time algorithms. In this work, we apply MoM principle at the gradient level using Tukey median to robustly estimate the uncorrupted gradient. More precisely, we propose a novel Tukey MoM-based variant of Stochastic Gradient Langevin Dynamics (TMoM-SGLD) which enjoys strong theoretical guarantees, including hitting-time bounds showing convergence to approximate stationary points of the underlying uncorrupted loss. Contrary to prior MoM estimators, our results hold in broad non-convex settings, making TMoM-SGLD particularly relevant to modern machine learning tasks.
+	    </div>
+</div>
 
 <div class="speaker-container">
     <div class="speaker-name">Emilie Morvant</div>
@@ -30,14 +40,6 @@ Au-delà de la théorie, nous insisterons sur leur portée algorithmique. Plutô
 	    </div>
 </div>
 
-<div class="speaker-container">
-    <div class="speaker-name">Stéphane Chrétien</div>
-    <div class="speaker-title">Tukey-Median of Means-Gradients for Langevin Dynamics</div>
-    
-    <div class="speaker-abstract">
-Median-of-Means (MoM) estimators have emerged as powerful tools for robust learning when data are corrupted by outliers or exhibit heavy-tailed distributions. However, incorporating MoM principles to design robust loss functions typically renders the underlying optimization problem highly non-convex, posing significant challenges for the design of efficient, polynomial-time algorithms. In this work, we apply MoM principle at the gradient level using Tukey median to robustly estimate the uncorrupted gradient. More precisely, we propose a novel Tukey MoM-based variant of Stochastic Gradient Langevin Dynamics (TMoM-SGLD) which enjoys strong theoretical guarantees, including hitting-time bounds showing convergence to approximate stationary points of the underlying uncorrupted loss. Contrary to prior MoM estimators, our results hold in broad non-convex settings, making TMoM-SGLD particularly relevant to modern machine learning tasks.
-	    </div>
-</div>
 <div class="speaker-container">
     <div class="speaker-name">Ammar Mian</div>
     <div class="speaker-title">Apprentissage profond sur matrices de covariance : optimisation riemannienne</div>
