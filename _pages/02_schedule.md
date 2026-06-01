@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Programme
 ---
-Jeudi 10 juin 2026
+Mercredi 10 juin 2026
 
 | Horaire      | Orateur              |
 |------------- |----------------------|
