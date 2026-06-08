@@ -41,7 +41,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
 
 Jeudi 10 juin 2026<br><br>
 
-Amphithéatre J020, Télécom Saint-Etienne<br><br>
+Amphithéatre D03, Institut d’Optique Graduate School - Télécom Saint-Etienne<br><br>
 
 
 Accès depuis la <strong>gare Châteaucreux</strong>:
