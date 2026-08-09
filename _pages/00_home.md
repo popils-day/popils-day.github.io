@@ -27,7 +27,7 @@ Merci de bien vouloir indiquer si vous souhaitez présenter vos travaux lors des
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://emorvant.github.io/">Emilie Morvant</a> <br>Maître de conférences<br>LabHC<br>Univ. Jean Monnet</td>
-    <td style="text-align:center"><a href="https://ammarmian.vercel.app/">Ammar Mian</a> <br>Maître de conférences<br> LISTIC<br>Univ. Savoie Mont-Blanc</td>
+    <td style="text-align:center"><a href="https://ammarmian.fr/">Ammar Mian</a> <br>Maître de conférences<br> LISTIC<br>Univ. Savoie Mont-Blanc</td>
     <td style="text-align:center"><a href="https://sites.google.com/site/stephanegchretien/home">Stéphane Chrétien</a> <br>Professeur<br>ERIC<br>Univ. Lyon 2</td>
     <td style="text-align:center"><a href="https://sites.google.com/view/debarnot/home">Valentin Debarnot</a><br>Professeur junior<br>CREATIS<br>Univ. Lyon 1</td>
   </tr>
